@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kunalwadhwa.cse@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1N5T-z2KS5f1vyM62gKzendEB-VpD511t/view?usp=share_link)
-
 - ⚡ Fun fact **My fastest typing speed record is 157 WPM!**
 
 <h3 align="left">Connect with me:</h3>
