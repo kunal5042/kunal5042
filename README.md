@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunal Wadhwa</h1>
-<h3 align="center">Upcoming Software Engineer Intern at Cashfree Payments India</h3>
+<h3 align="center">SDET Intern at Cashfree Payments India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal5042&label=Profile%20views&color=0e75b6&style=flat" alt="kunal5042" /> </p>
 
 - 🤷‍♂️ Primary coding language - Python
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Problem solving, DSA, Web Dev, CS fundamentals and growing as an engineer.**
 
@@ -27,9 +27,9 @@
 ## My Github Statistics 🧐
 [![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunal5042&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/kunal5042/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal5042&" alt="kunal5042" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal5042&" alt="kunal5042" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal5042&theme=transparent&langs_count=10)](https://github.com/kunal5042)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal5042&theme=transparent&langs_count=10)](https://github.com/kunal5042) -->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kunal5042"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kunal5042" /></a></p><br><br>
