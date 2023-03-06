@@ -5,7 +5,7 @@
 
 - 🤷‍♂️ Primary coding language - Python
 
-- 🌱 I’m currently learning **Web Development**
+<!-- - 🌱 I’m currently learning **Web Development** -->
 
 - 💬 Ask me about **Problem solving, DSA, Web Dev, CS fundamentals and growing as an engineer.**
 
