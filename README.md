@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal5042&label=Profile%20views&color=0e75b6&style=flat" alt="kunal5042" /> </p>
 
-- 🤷‍♂️ Primary coding language - Python
+- 🤷‍♂️ Primary coding language - Java/Python (Learning Go)
 
 <!-- - 🌱 I’m currently learning **System Design** -->
 
-- 💬 Ask me about **Computer Science**
+- 💬 Ask me about **Computer Science, Software Architecture, Object Oriented Design**
 
 - 📫 How to reach me **kunalwadhwa.cse@gmail.com**
 
