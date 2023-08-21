@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kunal Wadhwa</h1>
-<h3 align="center">SDET Intern at Cashfree Payments India</h3>
+<h3 align="center">SWE at Cashfree Payments India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal5042&label=Profile%20views&color=0e75b6&style=flat" alt="kunal5042" /> </p>
 
 - 🤷‍♂️ Primary coding language - Python
 
-<!-- - 🌱 I’m currently learning **Web Development** -->
+<!-- - 🌱 I’m currently learning **System Design** -->
 
-- 💬 Ask me about **Problem solving, DSA, Web Dev, CS fundamentals and growing as an engineer.**
+- 💬 Ask me about **Computer Science**
 
 - 📫 How to reach me **kunalwadhwa.cse@gmail.com**
 
