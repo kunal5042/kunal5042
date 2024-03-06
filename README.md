@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal5042&label=Profile%20views&color=0e75b6&style=flat" alt="kunal5042" /> </p>
 
-- 🤷‍♂️ Primary coding language - Java/Python (Learning Go)
+- 🤷‍♂️ Primary coding language - Java / Go / Python (Learning JavaScript)
+- 🧰 Frameworks - SpringBoot, RestAssured / Echo / FastApi, Django 
 
 <!-- - 🌱 I’m currently learning **System Design** -->
 
