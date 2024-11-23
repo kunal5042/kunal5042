@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal5042&label=Profile%20views&color=0e75b6&style=flat" alt="kunal5042" /> </p>
 
 - 🤷‍♂️ Primary coding language - Java, Go, Python and JavaScript 
-- 🧰 Frameworks - SpringBoot, RestAssured / Echo / FastApi, Django 
+- 🧰 Frameworks - SpringBoot, Maven, RestAssured, FastApi, 
 
 <!-- - 🌱 I’m currently learning **System Design: Building highly scalable, available, durable and fault tolerant systems** -->
 
