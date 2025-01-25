@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kunal Wadhwa</h1>
-<h3 align="center">Software Engineer at Cashfree Payments India</h3>
+<h3 align="center">Software Development Engineer (Backend) at Cashfree Payments India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal5042&label=Profile%20views&color=0e75b6&style=flat" alt="kunal5042" /> </p>
 
-- 🤷‍♂️ Primary coding language - Java, Go, Python and JavaScript 
-- 🧰 Frameworks - SpringBoot, Maven, RestAssured, FastApi, 
+- 🤷‍♂️ Primary coding language - Java, Go, Python
+- 🧰 Frameworks - SpringBoot, Echo, FastApi, 
 
-<!-- - 🌱 I’m currently learning **System Design: Building highly scalable, available, durable and fault tolerant systems** -->
+<!-- - 🌱 I love solving problems, designing and building scalable backends** -->
 
 - 💬 Ask me about **Computer Science, Software Architecture, Object Oriented Design**
 
